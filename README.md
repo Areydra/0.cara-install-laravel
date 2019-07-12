@@ -1,4 +1,4 @@
-//------------------ Cara menjalankan project no 7 bagian c------------------//
+//------------------ Cara install------------------//
 
 Download dan install composer = https://getcomposer.org/
 
@@ -8,7 +8,7 @@ Buka folder yg sudah di download
 
 Save as the .env.example to .env and set your database information
 
-Buka cmd kemudian pastekan url directory 7.project/C -contoh pastekan kedalam cmd: cd C:\Users\Areydra\Documents\Arkademy Test\7. Project\C
+Buka cmd kemudian pastekan url directory laravel
 
 -lalu enter
 
@@ -22,6 +22,3 @@ Selanjutnya ketikan = php artisan serve -enter
 
 Buka chrome dan ketikan url = localhost:8000
 
-untuk bagian table category dan hoby isi datanya manual dari database
-
-// NOTE PASTIKAN KONEKSI TERHUBUNG UNTUK MENGGUNAKAN FOLDER 7 KARENA PACKAGE BOOTSTRAP SECARA ONLINE
